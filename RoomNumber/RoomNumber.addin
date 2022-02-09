@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"D:\RevitAPITraining\RoomNumber.dll"</Assembly>
+		<AddInId>68CA5BB4-FFE8-4474-BEF8-7F653657B3F2</AddInId>
+		
+		<FullClassName>RoomNumber.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Нумерация помещений</Text>
+	</AddIn>
+</RevitAddIns>
